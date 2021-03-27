@@ -7,17 +7,17 @@
 * Webdriver
 * BeautifulSoup
 
-### Functions :
-1.	__log_in()__ - Login to Instagram using your Insta_id and Passsword
-2.	__searching()__ - Search for specific keyword
-3.	__clear_box()__ - Clear the searchbox
-4.	__visit_profile()__ - Visit the profile you want
-5.	__follow()__ - Follow the handle you want
-6.	__unfollow()__ - Unfollow the handle you want
-7.	__like()__ - Like the post of specific handles
-8.	__dislike()__ - Disike the post of specific handles
-9.	__extract_followers()__ - Extract the followers of specific handle
-10.	__story()__ - Check out the story of specific handle
+### Functioning :
+1.	__log_in__ - Login to Instagram using your Insta_id and Passsword
+2.	__searching__ - Search for specific keyword
+3.	__clear_box__ - Clear the searchbox
+4.	__visit_profile__ - Visit the profile you want
+5.	__follow__ - Follow the handle you want
+6.	__unfollow__ - Unfollow the handle you want
+7.	__like__ - Like the post of specific handles
+8.	__dislike__ - Disike the post of specific handles
+9.	__extract_followers__ - Extract the followers of specific handle
+10.	__story__ - Check out the story of specific handle
 
 ## Part-2
 
